@@ -21,5 +21,5 @@ If you publish material based on databases obtained from this repository, then, 
 
 Moreno, C. (2016). Dilma impeachment Twitter Raw Data Machine Learning Repository [https://github.com/caiomsouza/TwitterRawData]. Madrid, Spain: U-TAD, Certificate program in Data Science.
 
-Link do download DITRD-v1.0.0.
+#Link do download DITRD-v1.0.0.
 https://github.com/caiomsouza/TwitterRawData/releases/tag/DITRD-v1.0.0
