@@ -11,10 +11,10 @@ Authors: Caio Moreno
 #Data Set Information:
 
 #This data was collected using the The Streaming APIs.
-https://dev.twitter.com/streaming/overview
+https://dev.twitter.com/streaming/overview<BR>
 
-#Dilma impeachment Twitter Raw Data is a free and open source software. 
-It is available under the terms of the Apache License Version 2.
+Dilma impeachment Twitter Raw Data is a free and open source software. <BR>
+It is available under the terms of the Apache License Version 2.<BR>
 
 #Citation:
 If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
